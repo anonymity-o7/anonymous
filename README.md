@@ -4,7 +4,7 @@
 
 ## Overview
 
-**O7** is an open-source foundation model designed to assist in analog circuit design.This project is presented at the 2024 Design Automation Conference (DAC), and the model weights are hosted on Hugging Face.
+O7 is an open-source foundation model designed to assist in analog circuit design. The paper has been submitted to the 2025 ACM/IEEE Design Automation Conference (DAC).
 
 ## Features
 
@@ -43,7 +43,7 @@ outputs = model(**inputs)
 ```
 
 ## 2. Benchmark Files
-The benchmarking files for evaluating the performance of the model are included in this repository.
+The benchmark files for evaluating the performance of the model are included in this repository.
 
 Benchmark Files:
 ```bash
